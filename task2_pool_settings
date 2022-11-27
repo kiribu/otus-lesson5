@@ -1,0 +1,274 @@
+Script started on 2022-11-27 16:15:23+04:00 [TERM="xterm-256color" TTY="/dev/pts/2" COLUMNS="157" LINES="37"]
+[?2004h]0;kirill@home-notebook: ~/study/lesson5[01;32mkirill@home-notebook[00m:[01;34m~/study/lesson5[00m$ va
+vagrant      validlocale  
+]0;kirill@home-notebook: ~/study/lesson5[01;32mkirill@home-notebook[00m:[01;34m~/study/lesson5[00m$ vagrant ssh
+[?2004lLast login: Sun Nov 27 12:01:41 2022 from 10.0.2.2
+]0;vagrant@zfs:~[?1034h[vagrant@zfs ~]$ sudo -i
+]0;root@zfs:~[?1034h[root@zfs ~]# 
+]0;root@zfs:~[root@zfs ~]# 
+]0;root@zfs:~[root@zfs ~]# 
+]0;root@zfs:~[root@zfs ~]# 
+]0;root@zfs:~[root@zfs ~]# wget -O archive.tar.gz --no-check-certificate
+wget: missing URL
+Usage: wget [OPTION]... [URL]...
+
+Try `wget --help' for more options.
+]0;root@zfs:~[root@zfs ~]# ‘https://drive.google.com/u/0/uc?id=1KRBNW33QWqbvbVHa3hLJivOAt60yukkg&e
+[1] 14518
+-bash: ‘https://drive.google.com/u/0/uc?id=1KRBNW33QWqbvbVHa3hLJivOAt60yukkg: No such file or directory
+-bash: e: command not found
+[1]+  Exit 127                ‘https://drive.google.com/u/0/uc?id=1KRBNW33QWqbvbVHa3hLJivOAt60yukkg
+]0;root@zfs:~[root@zfs ~]# xport=download’[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kwget -O archive.tar.gz --no-check-certificate ‘https://drive.google.com/u/0/uc?id=1KRBNW33QWqbvbVHa3hLJivOAt60yukkg&export=download’[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[1] 14521
+]0;root@zfs:~[root@zfs ~]# ‘https://drive.google.com/u/0/uc?id=1KRBNW33QWqbvbVHa3hLJivOAt60yukkg: Scheme missing.
+
+]0;root@zfs:~[1]+  Exit 1                  wget -O archive.tar.gz --no-check-certificate ‘https://drive.google.com/u/0/uc?id=1KRBNW33QWqbvbVHa3hLJivOAt60yukkg
+[root@zfs ~]# 
+]0;root@zfs:~[root@zfs ~]# 
+]0;root@zfs:~[root@zfs ~]# 
+]0;root@zfs:~[root@zfs ~]# 
+]0;root@zfs:~[root@zfs ~]# 
+]0;root@zfs:~[root@zfs ~]# 
+]0;root@zfs:~[root@zfs ~]# 
+]0;root@zfs:~[root@zfs ~]# [K[root@zfs ~]# [K[root@zfs ~]# wget -O archive.tar.gz --no-check-certificate ‘https://drive.google.com/u/0/uc?id=1KRBNW33QWqbvbVHa3hLJivOAt60yukkg&export=download’[1P[1P[1P[1P[1P[1P[1P[1@z[1@f[1@s[1@_[1@t[1@a[1@s[1@k[1@1
+[1] 14528
+]0;root@zfs:~[root@zfs ~]# ‘https://drive.google.com/u/0/uc?id=1KRBNW33QWqbvbVHa3hLJivOAt60yukkg: Scheme missing.
+wget -O zfs_task1.tar.gz --no-check-certificate ‘https://drive.google.com/u/0/uc?id=1KRBNW33QWqbvbVHa3hLJivOAt60yukkg&export=download’[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+]0;root@zfs:~[1]+  Exit 1                  wget -O zfs_task1.tar.gz --no-check-certificate ‘https://drive.google.com/u/0/uc?id=1KRBNW33QWqbvbVHa3hLJivOAt60yukkg
+[root@zfs ~]# 
+]0;root@zfs:~[root@zfs ~]# 
+]0;root@zfs:~[root@zfs ~]# 
+]0;root@zfs:~[root@zfs ~]# 
+]0;root@zfs:~[root@zfs ~]# 
+]0;root@zfs:~[root@zfs ~]# 
+]0;root@zfs:~[root@zfs ~]# 
+]0;root@zfs:~[root@zfs ~]# 
+]0;root@zfs:~[root@zfs ~]# 
+]0;root@zfs:~[root@zfs ~]# 
+]0;root@zfs:~[root@zfs ~]# wget -O zfs_task1.tar.gz --no-check-certificate ‘https://drive.google.com/u/0/uc?id=1KRBNW33QWqbvbVHa3hLJivOAt60yukkg&export=download’[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[2Parchive[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[2@zfs_task1[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[2Parchive[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Phttps://drive.google.com/u/0/uc?id=1KRBNW33QWqbvbVHa3hLJivOAt60yukkg&export=download’[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[1] 14529
+]0;root@zfs:~[root@zfs ~]# --2022-11-27 12:22:17--  https://drive.google.com/u/0/uc?id=1KRBNW33QWqbvbVHa3hLJivOAt60yukkg
+Resolving drive.google.com (drive.google.com)... 173.194.73.194
+Connecting to drive.google.com (drive.google.com)|173.194.73.194|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://drive.google.com/uc?id=1KRBNW33QWqbvbVHa3hLJivOAt60yukkg [following]
+--2022-11-27 12:22:18--  https://drive.google.com/uc?id=1KRBNW33QWqbvbVHa3hLJivOAt60yukkg
+Reusing existing connection to drive.google.com:443.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://doc-0c-bo-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/ge12s7ueu5q2kcgjo4snfjopjuq94qe0/1669551675000/16189157874053420687/*/1KRBNW33QWqbvbVHa3hLJivOAt60yukkg?uuid=b467b377-9df8-4a84-b0a2-a636ef6c8525 [following]
+Warning: wildcards not supported in HTTP.
+--2022-11-27 12:22:23--  https://doc-0c-bo-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/ge12s7ueu5q2kcgjo4snfjopjuq94qe0/1669551675000/16189157874053420687/*/1KRBNW33QWqbvbVHa3hLJivOAt60yukkg?uuid=b467b377-9df8-4a84-b0a2-a636ef6c8525
+Resolving doc-0c-bo-docs.googleusercontent.com (doc-0c-bo-docs.googleusercontent.com)... 142.250.150.132
+Connecting to doc-0c-bo-docs.googleusercontent.com (doc-0c-bo-docs.googleusercontent.com)|142.250.150.132|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 7275140 (6.9M) [application/x-gzip]
+Saving to: ‘archive.tar.gz’
+
+ 0% [                                                                                                                               ] 0           --.-K/s               0% [                                                                                                                               ] 37,859       161KB/s              1% [>                                                                                                                              ] 86,999       186KB/s              2% [=>                                                                                                                             ] 149,291      215KB/s              2% [==>                                                                                                                            ] 213,513      236KB/s              3% [====>                                                                                                                          ] 290,793      261KB/s              5% [=====>                                                                                                                         ] 365,527      277KB/s              6% [=======>                                                                                                                       ] 461,203      301KB/s              7% [========>                                                                                                                      ] 562,135      322KB/s              9% [==========>                                                                                                                    ] 668,323      343KB/s             10% [============>                                                                                                                  ] 767,941      355KB/s             12% [==============>                                                                                                                ] 906,897      383KB/s             14% [================>                                                                                                              ] 1,020,887    396KB/s             15% [===================>                                                                                                           ] 1,150,953    413KB/s             18% [=====================>                                                                                                         ] 1,314,793    437KB/s             20% [========================>                                                                                                      ] 1,462,249    448KB/s  eta 13s    22% [===========================>                                                                                                   ] 1,658,857    470KB/s  eta 13s    24% [==============================>                                                                                                ] 1,789,929    490KB/s  eta 13s    25% [===============================>                                                                                               ] 1,888,233    511KB/s  eta 13s    27% [==================================>                                                                                            ] 2,019,305    522KB/s  eta 13s    29% [===================================>                                                                                           ] 2,117,609    529KB/s  eta 11s    30% [=====================================>                                                                                         ] 2,215,913    532KB/s  eta 11s    32% [=======================================>                                                                                       ] 2,338,793    550KB/s  eta 11s    33% [=========================================>                                                                                     ] 2,445,289    552KB/s  eta 11s    35% [===========================================>                                                                                   ] 2,576,361    560KB/s  eta 11s    36% [============================================>                                                                                  ] 2,625,513    524KB/s  eta 10s    36% [=============================================>                                                                                 ] 2,658,281    495KB/s  eta 10s    37% [==============================================>                                                                                ] 2,723,817    463KB/s  eta 10s    38% [===============================================>                                                                               ] 2,772,969    433KB/s  eta 11s    39% [================================================>                                                                              ] 2,838,505    419KB/s  eta 11s    39% [=================================================>                                                                             ] 2,904,041    403KB/s  eta 11s    40% [==================================================>                                                                            ] 2,953,193    363KB/s  eta 11s    41% [===================================================>                                                                           ] 3,018,729    350KB/s  eta 11s    42% [=====================================================>                                                                         ] 3,100,649    333KB/s  eta 11s    43% [=====================================================>                                                                         ] 3,149,801    295KB/s  eta 11s    44% [=======================================================>                                                                       ] 3,231,721    294KB/s  eta 11s    45% [========================================================>                                                                      ] 3,297,257    286KB/s  eta 10s    46% [=========================================================>                                                                     ] 3,379,177    283KB/s  eta 10s    47% [===========================================================>                                                                   ] 3,461,097    268KB/s  eta 10s    48% [============================================================>                                                                  ] 3,534,825    265KB/s  eta 10s    50% [==============================================================>                                                                ] 3,641,321    262KB/s  eta 10s    51% [================================================================>                                                              ] 3,756,009    261KB/s  eta 9s     53% [==================================================================>                                                            ] 3,887,081    289KB/s  eta 9s     55% [=====================================================================>                                                         ] 4,018,153    318KB/s  eta 9s     56% [======================================================================>                                                        ] 4,116,457    339KB/s  eta 9s     58% [=========================================================================>                                                     ] 4,253,175    362KB/s  eta 9s     59% [==========================================================================>                                                    ] 4,316,083    359KB/s  eta 7s     60% [============================================================================>                                                  ] 4,420,875    382KB/s  eta 7s     61% [=============================================================================>                                                 ] 4,492,981    383KB/s  eta 7s     62% [==============================================================================>                                                ] 4,576,913    386KB/s  eta 7s     64% [================================================================================>                                              ] 4,680,473    419KB/s  eta 7s     65% [==================================================================================>                                            ] 4,793,149    428KB/s  eta 6s     67% [====================================================================================>                                          ] 4,905,907    440KB/s  eta 6s     69% [======================================================================================>                                        ] 5,039,607    462KB/s  eta 6s     70% [=========================================================================================>                                     ] 5,164,109    480KB/s  eta 6s     71% [==========================================================================================>                                    ] 5,230,569    480KB/s  eta 6s     73% [============================================================================================>                                  ] 5,373,775    491KB/s  eta 5s     74% [=============================================================================================>                                 ] 5,410,485    460KB/s  eta 5s     75% [===============================================================================================>                               ] 5,516,673    453KB/s  eta 5s     76% [================================================================================================>                              ] 5,597,977    437KB/s  eta 5s     78% [==================================================================================================>                            ] 5,684,455    429KB/s  eta 5s     79% [===================================================================================================>                           ] 5,780,131    429KB/s  eta 4s     80% [=====================================================================================================>                         ] 5,881,063    437KB/s  eta 4s     82% [=======================================================================================================>                       ] 6,014,763    453KB/s  eta 4s     83% [=========================================================================================================>                     ] 6,086,869    446KB/s  eta 4s     85% [===========================================================================================================>                   ] 6,210,057    455KB/s  eta 4s     86% [=============================================================================================================>                 ] 6,311,913    452KB/s  eta 2s     88% [===============================================================================================================>               ] 6,438,119    457KB/s  eta 2s     90% [=================================================================================================================>             ] 6,550,795    457KB/s  eta 2s     91% [===================================================================================================================>           ] 6,672,751    454KB/s  eta 2s     93% [=====================================================================================================================>         ] 6,799,881    457KB/s  eta 2s     95% [========================================================================================================================>      ] 6,951,895    470KB/s  eta 1s     97% [==========================================================================================================================>    ] 7,082,967    487KB/s  eta 1s     98% [===========================================================================================================================>   ] 7,145,875    500KB/s  eta 1s     99% [=============================================================================================================================> ] 7,245,493    493KB/s  eta 1s     100%[==============================================================================================================================>] 7,275,140    501KB/s   in 17s    
+
+2022-11-27 12:22:40 (418 KB/s) - ‘archive.tar.gz’ saved [7275140/7275140]
+
+
+]0;root@zfs:~[1]+  Done                    wget -O archive.tar.gz --no-check-certificate https://drive.google.com/u/0/uc?id=1KRBNW33QWqbvbVHa3hLJivOAt60yukkg
+[root@zfs ~]# 
+]0;root@zfs:~[root@zfs ~]# 
+]0;root@zfs:~[root@zfs ~]# 
+]0;root@zfs:~[root@zfs ~]# ls
+anaconda-ks.cfg  [0m[38;5;9marchive.tar.gz[0m  original-ks.cfg  [38;5;9mzfs_task1.tar.gz[0m
+]0;root@zfs:~[root@zfs ~]# rm zfs_task1.tar.gz [K
+rm: remove regular empty file ‘zfs_task1.tar.gz’? y
+]0;root@zfs:~[root@zfs ~]# 
+]0;root@zfs:~[root@zfs ~]# 
+]0;root@zfs:~[root@zfs ~]# 
+]0;root@zfs:~[root@zfs ~]# 
+]0;root@zfs:~[root@zfs ~]# ls
+anaconda-ks.cfg  [0m[38;5;9marchive.tar.gz[0m  original-ks.cfg
+]0;root@zfs:~[root@zfs ~]# lsrm zfs_task1.tar.gz[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Ktar -xzvf archive.tar.gz [K
+zpoolexport/
+zpoolexport/filea
+zpoolexport/fileb
+]0;root@zfs:~[root@zfs ~]# 
+]0;root@zfs:~[root@zfs ~]# 
+]0;root@zfs:~[root@zfs ~]# 
+]0;root@zfs:~[root@zfs ~]# 
+]0;root@zfs:~[root@zfs ~]# 
+]0;root@zfs:~[root@zfs ~]# ls
+anaconda-ks.cfg  [0m[38;5;9marchive.tar.gz[0m  original-ks.cfg  [38;5;27mzpoolexport[0m
+]0;root@zfs:~[root@zfs ~]# zpol[Kol import -d zpoolexport/
+   pool: otus
+     id: 6554193320433390805
+  state: ONLINE
+ action: The pool can be imported using its name or numeric identifier.
+ config:
+
+	otus                         ONLINE
+	  mirror-0                   ONLINE
+	    /root/zpoolexport/filea  ONLINE
+	    /root/zpoolexport/fileb  ONLINE
+]0;root@zfs:~[root@zfs ~]# zpool import -d zpoolexport/ otus
+]0;root@zfs:~[root@zfs ~]# zpool status
+  pool: otus
+ state: ONLINE
+  scan: none requested
+config:
+
+	NAME                         STATE     READ WRITE CKSUM
+	otus                         ONLINE       0     0     0
+	  mirror-0                   ONLINE       0     0     0
+	    /root/zpoolexport/filea  ONLINE       0     0     0
+	    /root/zpoolexport/fileb  ONLINE       0     0     0
+
+errors: No known data errors
+
+  pool: otus1
+ state: ONLINE
+  scan: none requested
+config:
+
+	NAME        STATE     READ WRITE CKSUM
+	otus1       ONLINE       0     0     0
+	  mirror-0  ONLINE       0     0     0
+	    sdb     ONLINE       0     0     0
+	    sdc     ONLINE       0     0     0
+
+errors: No known data errors
+
+  pool: otus2
+ state: ONLINE
+  scan: none requested
+config:
+
+	NAME        STATE     READ WRITE CKSUM
+	otus2       ONLINE       0     0     0
+	  mirror-0  ONLINE       0     0     0
+	    sdd     ONLINE       0     0     0
+	    sde     ONLINE       0     0     0
+
+errors: No known data errors
+
+  pool: otus3
+ state: ONLINE
+  scan: none requested
+config:
+
+	NAME        STATE     READ WRITE CKSUM
+	otus3       ONLINE       0     0     0
+	  mirror-0  ONLINE       0     0     0
+	    sdf     ONLINE       0     0     0
+	    sdg     ONLINE       0     0     0
+
+errors: No known data errors
+
+  pool: otus4
+ state: ONLINE
+  scan: none requested
+config:
+
+	NAME        STATE     READ WRITE CKSUM
+	otus4       ONLINE       0     0     0
+	  mirror-0  ONLINE       0     0     0
+	    sdh     ONLINE       0     0     0
+	    sdi     ONLINE       0     0     0
+
+errors: No known data errors
+]0;root@zfs:~[root@zfs ~]# zpool status otus
+  pool: otus
+ state: ONLINE
+  scan: none requested
+config:
+
+	NAME                         STATE     READ WRITE CKSUM
+	otus                         ONLINE       0     0     0
+	  mirror-0                   ONLINE       0     0     0
+	    /root/zpoolexport/filea  ONLINE       0     0     0
+	    /root/zpoolexport/fileb  ONLINE       0     0     0
+
+errors: No known data errors
+]0;root@zfs:~[root@zfs ~]# zpool[Kl get all otus
+NAME  PROPERTY                       VALUE                          SOURCE
+otus  size                           480M                           -
+otus  capacity                       0%                             -
+otus  altroot                        -                              default
+otus  health                         ONLINE                         -
+otus  guid                           6554193320433390805            -
+otus  version                        -                              default
+otus  bootfs                         -                              default
+otus  delegation                     on                             default
+otus  autoreplace                    off                            default
+otus  cachefile                      -                              default
+otus  failmode                       wait                           default
+otus  listsnapshots                  off                            default
+otus  autoexpand                     off                            default
+otus  dedupditto                     0                              default
+otus  dedupratio                     1.00x                          -
+otus  free                           478M                           -
+otus  allocated                      2.09M                          -
+otus  readonly                       off                            -
+otus  ashift                         0                              default
+otus  comment                        -                              default
+otus  expandsize                     -                              -
+otus  freeing                        0                              -
+otus  fragmentation                  0%                             -
+otus  leaked                         0                              -
+otus  multihost                      off                            default
+otus  checkpoint                     -                              -
+otus  load_guid                      9269504852817622533            -
+otus  autotrim                       off                            default
+otus  feature@async_destroy          enabled                        local
+otus  feature@empty_bpobj            active                         local
+otus  feature@lz4_compress           active                         local
+otus  feature@multi_vdev_crash_dump  enabled                        local
+otus  feature@spacemap_histogram     active                         local
+otus  feature@enabled_txg            active                         local
+otus  feature@hole_birth             active                         local
+otus  feature@extensible_dataset     active                         local
+otus  feature@embedded_data          active                         local
+otus  feature@bookmarks              enabled                        local
+otus  feature@filesystem_limits      enabled                        local
+otus  feature@large_blocks           enabled                        local
+otus  feature@large_dnode            enabled                        local
+otus  feature@sha512                 enabled                        local
+otus  feature@skein                  enabled                        local
+otus  feature@edonr                  enabled                        local
+otus  feature@userobj_accounting     active                         local
+otus  feature@encryption             enabled                        local
+otus  feature@project_quota          active                         local
+otus  feature@device_removal         enabled                        local
+otus  feature@obsolete_counts        enabled                        local
+otus  feature@zpool_checkpoint       enabled                        local
+otus  feature@spacemap_v2            active                         local
+otus  feature@allocation_classes     enabled                        local
+otus  feature@resilver_defer         enabled                        local
+otus  feature@bookmark_v2            enabled                        local
+]0;root@zfs:~[root@zfs ~]# zfs get available otus
+NAME  PROPERTY   VALUE  SOURCE
+otus  available  350M   -
+]0;root@zfs:~[root@zfs ~]# zfs get available otus[K[K[K[K[K[K[K[K[K[K[K[K[K[Kreadonle[Kw[Ky otus
+NAME  PROPERTY  VALUE   SOURCE
+otus  readonly  off     default
+]0;root@zfs:~[root@zfs ~]# 
+]0;root@zfs:~[root@zfs ~]# 
+]0;root@zfs:~[root@zfs ~]# 
+]0;root@zfs:~[root@zfs ~]# zfs get readonly otus[K[K[K[K[K[K[K[K[K[K[Kcordsize otus
+NAME  PROPERTY    VALUE    SOURCE
+otus  recordsize  128K     local
+]0;root@zfs:~[root@zfs ~]# 
+]0;root@zfs:~[root@zfs ~]# 
+]0;root@zfs:~[root@zfs ~]# 
+]0;root@zfs:~[root@zfs ~]# zfs get recordsize otus[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kcompressio [Kn otus
+NAME  PROPERTY     VALUE     SOURCE
+otus  compression  zle       local
+]0;root@zfs:~[root@zfs ~]# zfs get compression otus[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Khecksum otus
+NAME  PROPERTY  VALUE      SOURCE
+otus  checksum  sha256     local
+]0;root@zfs:~[root@zfs ~]# 
+]0;root@zfs:~[root@zfs ~]# 
+]0;root@zfs:~[root@zfs ~]# 
+]0;root@zfs:~[root@zfs ~]# 
+]0;root@zfs:~[root@zfs ~]# 
+]0;root@zfs:~[root@zfs ~]# logout
+]0;vagrant@zfs:~[vagrant@zfs ~]$ logout
+[?2004h]0;kirill@home-notebook: ~/study/lesson5[01;32mkirill@home-notebook[00m:[01;34m~/study/lesson5[00m$ [?2004l
+exit
+
+Script done on 2022-11-27 16:28:18+04:00 [COMMAND_EXIT_CODE="0"]
